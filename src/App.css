@@ -35,3 +35,7 @@ td, th{
 td:nth-child(even) {
   background-color: #dddddd;
 }
+
+.right {
+  text-align: right;
+}
