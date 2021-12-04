@@ -38,4 +38,5 @@ td:nth-child(even) {
 
 .right {
   text-align: right;
+  float: right;
 }
