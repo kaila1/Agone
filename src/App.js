@@ -13,7 +13,7 @@ function App() {
 		</a>
       </div>
       <Tabs>
-        <div label="Student Data">
+        <div label="STUDENT DATA">
         <table>
     	    <tr>
         	  <th>Athlete</th>
