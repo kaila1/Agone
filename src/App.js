@@ -5,12 +5,11 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Team Agone</h1>
-      <div style="text-align:right">
-		  <a href="https://testbranch.d5mz5bs8uvjp6.amplifyapp.com/">
-		<img src="./img/accountIMG" width="40" height="40" >
-		</img>
-		</a>
+		<div>
+		  <h1>Team Agone</h1>
+		  <a class="right" href="https://testbranch.d5mz5bs8uvjp6.amplifyapp.com/">
+			<img src="./img/accountIMG" width="40" height="40" ></img>
+		  </a>
       </div>
       <Tabs>
         <div label="STUDENT DATA">
