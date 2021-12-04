@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './accountPage.css';
-import App from './Acc';
+import Acc from './Acc';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Acc />
   </React.StrictMode>,
   document.getElementById('root2')
 );
