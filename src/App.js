@@ -10,6 +10,7 @@ function App() {
 		</a>
 		<div>
 		  <h1>Team Agone</h1>
+			<button class="right"> Distill Data </button>
       </div>
       <Tabs>
         <div label="STUDENT DATA">
@@ -36,7 +37,7 @@ function App() {
       	    <td>15</td>
   	      </tr>
   	      <tr>
-      	    <th>Wellness Report</th>
+      	    <th>Wellness Report <button class="right"> Request Wellness Report </button> </th>
         	  <td>School has been stressing me out.</td>
         	  <td>Overall Good.</td>
             <td>Great, better than last week for sure.</td>
@@ -69,10 +70,10 @@ function App() {
     	    </tr>
     	    <tr>
         	  <th>Comments on Workout</th>
-          	  <td><div contenteditable>Reduce workout?</div></td>
-          	  <td><div contenteditable>Reduce workout?</div></td>
-              <td><div contenteditable>You went over your goal!</div></td>
-        	  <td><div contenteditable>You met your goal!</div></td>
+          	  <td><div contenteditable="true" >Reduce workout?</div></td>
+          	  <td><div contenteditable="true">Reduce workout?</div></td>
+              <td><div contenteditable="true">You went over your goal!</div></td>
+        	  <td><div contenteditable="true">You met your goal!</div></td>
     	    </tr>
     	  </table>
         </div>
