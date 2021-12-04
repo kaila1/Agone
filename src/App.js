@@ -6,8 +6,8 @@ function App() {
   return (
     <div className="App">
       <h1>Team Agone</h1>
-      <div>
-		  <a href="https://master.d5mz5bs8uvjp6.amplifyapp.com/accountPage.html">
+      <div style="text-align:right">
+		  <a href="https://testbranch.d5mz5bs8uvjp6.amplifyapp.com/">
 		<img src="./img/accountIMG" width="40" height="40" >
 		</img>
 		</a>
