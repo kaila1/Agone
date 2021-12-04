@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>Team Agone</h1>
-      <div style="text-align:center">
+      <div class="center">
 	  <h1>"Wow, I am empty :)!"</h1>
       </div>  
     </div>
