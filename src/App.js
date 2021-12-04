@@ -69,10 +69,10 @@ function App() {
     	    </tr>
     	    <tr>
         	  <th>Comments on Workout</th>
-          	  <td>Didnt meet weekly goal, but workout is fine.</td>
-          	  <td>Reduce workout please!</td>
-              <td>Workout is good as is.</td>
-        	  <td>Increase workout distance.</td>
+          	  <td><div contenteditable>Reduce workout?</div></td>
+          	  <td><div contenteditable>Reduce workout?</div></td>
+              <td><div contenteditable>You went over your goal!</div></td>
+        	  <td><div contenteditable>You met your goal!</div></td>
     	    </tr>
     	  </table>
         </div>
