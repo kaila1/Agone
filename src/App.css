@@ -40,3 +40,19 @@ td:nth-child(even) {
   text-align: right;
   float: right;
 }
+
+.account {
+  Margin-right: 20px;
+  border-radius: 50%;
+  border: 2px #dddddd solid;
+  margin-left:5px;
+}
+
+.Top {
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+.pad {
+
+}

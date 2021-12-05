@@ -5,10 +5,13 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-		<a class="right" href="https://testbranch.d5mz5bs8uvjp6.amplifyapp.com/">
-			<img src="./img/accountIMG" width="40" height="40" ></img>
-		</a>
-		<div>
+		<div class="right">
+			<a href="https://testbranch.d5mz5bs8uvjp6.amplifyapp.com/">
+			<img class="account" src="https://nyrevconnect.com/wp-content/uploads/2017/06/Placeholder_staff_photo-e1505825573317.png" width="50" height="50"  ></img>
+			</a>
+		</div>
+		<h5 class="right">Username</h5>
+		<div class="Top">
 		  <h1>Team Agone</h1>
 			<button class="right"> Distill Data </button>
       </div>
